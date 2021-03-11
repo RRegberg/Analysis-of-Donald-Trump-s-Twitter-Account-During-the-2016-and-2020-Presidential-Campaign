@@ -14,3 +14,24 @@ The original variables include:
 - **favorites:** Total count for how many times the tweet was favorited.
 - **retweets:** Total count for how many times the tweet was retweeted.
 - **date:** The date and time the tweet was posted.
+
+Throughoug the duration of the project the following variables were created:
+
+- **Image:** If the tweet contained an image or not.
+- **clean_text:** Cleaned text of the tweet
+- **mentioned:** The handle of who was mentioned.
+- **hashtags:** The text of the hashtag(s).
+- **character_len:** Character length of tweet.
+- **word_count:** Word count of tweet.
+- **tweet_year:** The year of the tweet.
+- **blob polarity:** TextBlob polarity score.
+- **blob_subjectivity:** TextBlob subjectivity score.
+- **TextBlob:** TextBlob Sentiment.
+- **TextBlob_Subjectivity:** TextBlob Subjectivity.
+- **neg:** Vader negative score.
+- **neu:** Vader neutral score.
+- **pos:** Vader positive score.
+- **compound:** Vader compound score.
+- **VADER:** Vader Sentiment.
+- **Topic_LDA:** LDA Topic.
+- **Topic_NMF:** NMF Topic.
